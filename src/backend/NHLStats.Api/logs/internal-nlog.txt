@@ -1,0 +1,166 @@
+2018-12-29 05:59:33.4374 Info Message Template Auto Format enabled
+2018-12-29 05:59:33.5139 Info Adding target File Target[allfile]
+2018-12-29 05:59:33.5179 Info Adding target File Target[ownFile-web]
+2018-12-29 05:59:33.5179 Info Adding target Null Target[blackhole]
+2018-12-29 05:59:33.5179 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 05:59:33.5480 Info Found 58 configuration items
+2018-12-29 06:25:16.0485 Info Message Template Auto Format enabled
+2018-12-29 06:25:16.1332 Info Adding target File Target[allfile]
+2018-12-29 06:25:16.1433 Info Adding target File Target[ownFile-web]
+2018-12-29 06:25:16.1433 Info Adding target Null Target[blackhole]
+2018-12-29 06:25:16.1433 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 06:25:16.1696 Info Found 58 configuration items
+2018-12-29 06:29:59.3282 Info Message Template Auto Format enabled
+2018-12-29 06:29:59.4349 Info Adding target File Target[allfile]
+2018-12-29 06:29:59.4461 Info Adding target File Target[ownFile-web]
+2018-12-29 06:29:59.4461 Info Adding target Null Target[blackhole]
+2018-12-29 06:29:59.4558 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 06:29:59.4781 Info Found 58 configuration items
+2018-12-29 06:56:03.7235 Info Message Template Auto Format enabled
+2018-12-29 06:56:03.8109 Info Adding target File Target[allfile]
+2018-12-29 06:56:03.8224 Info Adding target File Target[ownFile-web]
+2018-12-29 06:56:03.8224 Info Adding target Null Target[blackhole]
+2018-12-29 06:56:03.8310 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 06:56:03.8541 Info Found 58 configuration items
+2018-12-29 06:58:49.2800 Info Message Template Auto Format enabled
+2018-12-29 06:58:49.3604 Info Adding target File Target[allfile]
+2018-12-29 06:58:49.3604 Info Adding target File Target[ownFile-web]
+2018-12-29 06:58:49.3604 Info Adding target Null Target[blackhole]
+2018-12-29 06:58:49.3814 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 06:58:49.3978 Info Found 58 configuration items
+2018-12-29 07:08:36.0032 Info Message Template Auto Format enabled
+2018-12-29 07:08:36.0816 Info Adding target File Target[allfile]
+2018-12-29 07:08:36.0816 Info Adding target File Target[ownFile-web]
+2018-12-29 07:08:36.0934 Info Adding target Null Target[blackhole]
+2018-12-29 07:08:36.0934 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:08:36.1259 Info Found 58 configuration items
+2018-12-29 07:09:25.1785 Info Configuration file change detected! Reloading in 1000ms...
+2018-12-29 07:09:26.1884 Info Reloading configuration...
+2018-12-29 07:09:26.1884 Info Message Template Auto Format enabled
+2018-12-29 07:09:26.1884 Info Found 58 configuration items
+2018-12-29 07:09:26.1884 Info Adding target File Target[allfile]
+2018-12-29 07:09:26.1884 Info Adding target File Target[ownFile-web]
+2018-12-29 07:09:26.1884 Info Adding target Null Target[blackhole]
+2018-12-29 07:09:26.1884 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:09:26.1884 Info Closing old configuration.
+2018-12-29 07:09:26.2299 Info Found 58 configuration items
+2018-12-29 07:17:16.4837 Info Message Template Auto Format enabled
+2018-12-29 07:17:16.5633 Info Adding target File Target[allfile]
+2018-12-29 07:17:16.5633 Info Adding target File Target[ownFile-web]
+2018-12-29 07:17:16.5633 Info Adding target Null Target[blackhole]
+2018-12-29 07:17:16.5814 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:17:16.5984 Info Found 58 configuration items
+2018-12-29 07:17:32.1593 Info Configuration file change detected! Reloading in 1000ms...
+2018-12-29 07:17:33.1732 Info Reloading configuration...
+2018-12-29 07:17:33.1732 Info Message Template Auto Format enabled
+2018-12-29 07:17:33.1732 Info Found 58 configuration items
+2018-12-29 07:17:33.1732 Info Adding target File Target[allfile]
+2018-12-29 07:17:33.1732 Info Adding target File Target[ownFile-web]
+2018-12-29 07:17:33.1732 Info Adding target Null Target[blackhole]
+2018-12-29 07:17:33.1732 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:17:33.1732 Info Closing old configuration.
+2018-12-29 07:17:33.2024 Info Found 58 configuration items
+2018-12-29 07:25:50.9759 Info Message Template Auto Format enabled
+2018-12-29 07:25:51.0563 Info Adding target File Target[allfile]
+2018-12-29 07:25:51.0640 Info Adding target File Target[ownFile-web]
+2018-12-29 07:25:51.0640 Info Adding target Null Target[blackhole]
+2018-12-29 07:25:51.0640 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:25:51.0871 Info Found 58 configuration items
+2018-12-29 07:27:19.1193 Info Message Template Auto Format enabled
+2018-12-29 07:27:19.1908 Info Adding target File Target[allfile]
+2018-12-29 07:27:19.1908 Info Adding target File Target[ownFile-web]
+2018-12-29 07:27:19.1908 Info Adding target Null Target[blackhole]
+2018-12-29 07:27:19.2073 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:27:19.2290 Info Found 58 configuration items
+2018-12-29 07:28:13.0189 Info Message Template Auto Format enabled
+2018-12-29 07:28:13.0900 Info Adding target File Target[allfile]
+2018-12-29 07:28:13.0979 Info Adding target File Target[ownFile-web]
+2018-12-29 07:28:13.0979 Info Adding target Null Target[blackhole]
+2018-12-29 07:28:13.0979 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:28:13.1208 Info Found 58 configuration items
+2018-12-29 07:29:08.6739 Info Message Template Auto Format enabled
+2018-12-29 07:29:08.7251 Info Adding target File Target[allfile]
+2018-12-29 07:29:08.7251 Info Adding target File Target[ownFile-web]
+2018-12-29 07:29:08.7251 Info Adding target Null Target[blackhole]
+2018-12-29 07:29:08.7352 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:29:08.7496 Info Found 58 configuration items
+2018-12-29 07:49:44.3538 Info Message Template Auto Format enabled
+2018-12-29 07:49:44.4440 Info Adding target File Target[allfile]
+2018-12-29 07:49:44.4541 Info Adding target File Target[ownFile-web]
+2018-12-29 07:49:44.4541 Info Adding target Null Target[blackhole]
+2018-12-29 07:49:44.4541 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 07:49:44.4761 Info Found 58 configuration items
+2018-12-29 08:21:30.4438 Info Message Template Auto Format enabled
+2018-12-29 08:21:30.5242 Info Adding target File Target[allfile]
+2018-12-29 08:21:30.5335 Info Adding target File Target[ownFile-web]
+2018-12-29 08:21:30.5335 Info Adding target Null Target[blackhole]
+2018-12-29 08:21:30.5335 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 08:21:30.5579 Info Found 58 configuration items
+2018-12-29 09:38:47.5120 Info Message Template Auto Format enabled
+2018-12-29 09:38:47.5927 Info Adding target File Target[allfile]
+2018-12-29 09:38:47.6020 Info Adding target File Target[ownFile-web]
+2018-12-29 09:38:47.6020 Info Adding target Null Target[blackhole]
+2018-12-29 09:38:47.6091 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:38:47.6246 Info Found 58 configuration items
+2018-12-29 09:39:36.0049 Info Message Template Auto Format enabled
+2018-12-29 09:39:36.0728 Info Adding target File Target[allfile]
+2018-12-29 09:39:36.0843 Info Adding target File Target[ownFile-web]
+2018-12-29 09:39:36.0843 Info Adding target Null Target[blackhole]
+2018-12-29 09:39:36.0927 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:39:36.1134 Info Found 58 configuration items
+2018-12-29 09:39:46.4370 Info Configuration file change detected! Reloading in 1000ms...
+2018-12-29 09:39:49.2550 Info Reloading configuration...
+2018-12-29 09:39:49.2550 Info Message Template Auto Format enabled
+2018-12-29 09:39:49.2550 Info Found 58 configuration items
+2018-12-29 09:39:49.2980 Info Adding target File Target[allfile]
+2018-12-29 09:39:49.2980 Info Adding target File Target[ownFile-web]
+2018-12-29 09:39:49.2980 Info Adding target Null Target[blackhole]
+2018-12-29 09:39:49.2980 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:39:49.2980 Info Closing old configuration.
+2018-12-29 09:39:49.3220 Info Found 58 configuration items
+2018-12-29 09:51:23.7316 Info Message Template Auto Format enabled
+2018-12-29 09:51:23.8121 Info Adding target File Target[allfile]
+2018-12-29 09:51:23.8121 Info Adding target File Target[ownFile-web]
+2018-12-29 09:51:23.8121 Info Adding target Null Target[blackhole]
+2018-12-29 09:51:23.8295 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:51:23.8465 Info Found 58 configuration items
+2018-12-29 09:51:27.9821 Info Configuration file change detected! Reloading in 1000ms...
+2018-12-29 09:51:28.9852 Info Reloading configuration...
+2018-12-29 09:51:28.9852 Info Message Template Auto Format enabled
+2018-12-29 09:51:28.9852 Info Found 58 configuration items
+2018-12-29 09:51:28.9852 Info Adding target File Target[allfile]
+2018-12-29 09:51:28.9852 Info Adding target File Target[ownFile-web]
+2018-12-29 09:51:28.9852 Info Adding target Null Target[blackhole]
+2018-12-29 09:51:28.9852 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:51:28.9852 Info Closing old configuration.
+2018-12-29 09:51:29.0154 Info Found 58 configuration items
+2018-12-29 09:53:54.0966 Info Message Template Auto Format enabled
+2018-12-29 09:53:54.1740 Info Adding target File Target[allfile]
+2018-12-29 09:53:54.1740 Info Adding target File Target[ownFile-web]
+2018-12-29 09:53:54.1740 Info Adding target Null Target[blackhole]
+2018-12-29 09:53:54.1921 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:53:54.2186 Info Found 58 configuration items
+2018-12-29 09:55:17.4078 Info Message Template Auto Format enabled
+2018-12-29 09:55:17.5025 Info Adding target File Target[allfile]
+2018-12-29 09:55:17.5025 Info Adding target File Target[ownFile-web]
+2018-12-29 09:55:17.5025 Info Adding target Null Target[blackhole]
+2018-12-29 09:55:17.5174 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 09:55:17.5338 Info Found 58 configuration items
+2018-12-29 10:12:31.6197 Info Message Template Auto Format enabled
+2018-12-29 10:12:31.7051 Info Adding target File Target[allfile]
+2018-12-29 10:12:31.7051 Info Adding target File Target[ownFile-web]
+2018-12-29 10:12:31.7051 Info Adding target Null Target[blackhole]
+2018-12-29 10:12:31.7213 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 10:12:31.7369 Info Found 58 configuration items
+2018-12-29 10:17:49.2553 Info Message Template Auto Format enabled
+2018-12-29 10:17:49.3312 Info Adding target File Target[allfile]
+2018-12-29 10:17:49.3312 Info Adding target File Target[ownFile-web]
+2018-12-29 10:17:49.3312 Info Adding target Null Target[blackhole]
+2018-12-29 10:17:49.3455 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 10:17:49.3626 Info Found 58 configuration items
+2018-12-29 10:19:25.4346 Info Message Template Auto Format enabled
+2018-12-29 10:19:25.5090 Info Adding target File Target[allfile]
+2018-12-29 10:19:25.5170 Info Adding target File Target[ownFile-web]
+2018-12-29 10:19:25.5170 Info Adding target Null Target[blackhole]
+2018-12-29 10:19:25.5170 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\my-meal-project\nativescriptgraphqldemo\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NLog.config...
+2018-12-29 10:19:25.5407 Info Found 58 configuration items

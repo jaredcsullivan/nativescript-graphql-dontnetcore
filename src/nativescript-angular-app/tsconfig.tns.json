@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "es2015",
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "paths": {
+      "~/*": [
+          "src/*"
+      ],
+      "*": [
+          "./node_modules/tns-core-modules/*",
+          "./node_modules/*"
+      ]
+    }
+  }
+}
