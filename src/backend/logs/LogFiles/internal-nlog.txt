@@ -1,0 +1,6 @@
+2019-01-01 15:25:22.6916 Info Message Template Auto Format enabled
+2019-01-01 15:25:22.7577 Info Adding target File Target[allfile]
+2019-01-01 15:25:22.7659 Info Adding target File Target[ownFile-web]
+2019-01-01 15:25:22.7659 Info Adding target Null Target[blackhole]
+2019-01-01 15:25:22.7659 Info Configured from an XML element in C:\Users\sulli\OneDrive\Desktop\test\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.2\NLog.config...
+2019-01-01 15:25:22.7880 Info Found 58 configuration items
